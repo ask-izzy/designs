@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<svg viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;">
 <g id="phone">
 	<path d="M40.318,45.212c-6.359,0-12.574-2.575-17.072-7.084c-4.561-4.57-7.136-10.903-7.065-17.375c0-0.165,0.259-1.484,0.899-2.12
 		l1.947-1.953c1.019-1.019,2.817-1.446,4.182-0.99l0.416,0.141c1.311,0.437,2.579,1.78,2.944,3.12l0.982,3.612
@@ -16,7 +15,5 @@
 		c-0.692,0.693-1.736,0.93-2.655,0.614c-4.315-1.488-7.776-4.959-9.259-9.285c-0.317-0.923-0.077-1.967,0.614-2.658l0.684-0.686
 		c0.431-0.431,0.684-1.408,0.519-2.008l-0.982-3.613c-0.168-0.618-0.901-1.393-1.509-1.596L22.502,17.8
 		c-0.557-0.186-1.486,0.034-1.906,0.453l-1.95,1.956C18.589,20.292,18.469,20.635,18.399,20.902z"/>
-</g>
-<g id="Layer_1">
 </g>
 </svg>
